@@ -3,7 +3,7 @@
 body .wrap {
   display: block;
   height: 500vh;
-  background-image: url("Мобил.png");
+  background-image: url("mobile.png");
   background-size: contain;
 -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
